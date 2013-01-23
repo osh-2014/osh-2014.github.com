@@ -11,4 +11,9 @@ tagline: オープンセミナー2014開催決定!!
 
 現在は開催に向けてボランティアスタッフを募集しています。
 
+## リンク
+
+* [オープンセミナー2013@広島](http://osh-web.github.com/)
+* [オープンセミナー2013@岡山](http://openseminar.okaya.ma/2013/)
+
 <a class="btn" href="mailto:eiel.hal@gmail.com?OSHに関するお問い合わせ">お問い合わせはこちら</a>
