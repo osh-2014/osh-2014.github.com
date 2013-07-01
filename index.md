@@ -1,9 +1,9 @@
 ---
-layout: page
-title: オープンセミナー2014@広島
-tagline: オープンセミナー2014開催決定!!
+layout: default
+title: 開催概要
 ---
-{% include JB/setup %}
+
+# 開催概要
 
 オープンセミナー2014@広島は2014年の1月または2月に開催を予定しています。
 
@@ -11,9 +11,10 @@ tagline: オープンセミナー2014開催決定!!
 
 現在は開催に向けてボランティアスタッフを募集しています。
 
-## リンク
+# リンク
 
 * [オープンセミナー2013@広島](http://osh-web.github.com/)
 * [オープンセミナー2013@岡山](http://openseminar.okaya.ma/2013/)
+* [オープンセミナー2013@香川](http://atnd.org/events/40654)
 
-<a class="btn" href="mailto:eiel.hal@gmail.com?OSHに関するお問い合わせ">お問い合わせはこちら</a>
+<a class="button" href="mailto:eiel.hal@gmail.com?OSHに関するお問い合わせ">お問い合わせはこちら</a>

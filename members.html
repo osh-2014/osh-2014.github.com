@@ -1,0 +1,61 @@
+---
+layout: default
+title: 実行委員紹介
+members:
+  -
+    name: 曽根 壮大
+    twitter: soudai1025
+    github: soudai
+  -
+    name: 逸見 誠
+    twitter: mako_wis
+    github: makowis
+  -
+    name: 松原 和也
+    twitter: Toro_kun
+    github: torokun
+  -
+    name: 森下 智裕
+    twitter: CentBoss
+    github: moriC
+  -
+    name: 西本 卓也
+    twitter: 24motz
+    github: nishimotz
+  -
+    name: 西村 誠
+    twitter: coelacanth
+    github: coelacanth77
+  -
+    name: 金田 晃
+    twitter: akira345
+    github: akira345
+  -
+    name: 坂田 泰平
+  -
+    name: 火村 智彦
+    twitter: eielh
+    github: eiel
+---
+
+<h1>実行委員紹介</h1>
+
+<p>オープンセミナー2014@広島を運営を手伝ってくださってる方々を紹介します。</p>
+
+<ul>
+  {% for member in page.members %}
+  <li>
+    <span class="name">{{ member.name }}</span>
+    {% if member.twitter %}
+    <a href="http://twitter.com/{{ member.twitter }}" class="name">
+      <i class="icon-twitter">{{ member.twitter }}</i>
+    </a>
+    {% endif %}
+    {% if member.github %}
+    <a href="http://github.com/{{ member.github }}" class="name">
+      <i class="icon-github">{{ member.github }}</i>
+    </a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,170 @@
+#layout {
+    background-color: #eee;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 700px;
+    z-index: 1;
+    text-align: right;
+}
+
+.content {
+    position: relative;
+    left: 240px;
+    z-index: 2;
+    /* margin: 0 0 0 240px; */
+    padding: 8em 2em 5em 2em;
+    width: 528px;
+    background: #eee;
+    box-shadow: 0 0 100px 0 rgba(100,100,100, 0.1);
+    min-height: 600px;
+}
+
+.brand-title,
+.brand-tagline {
+    margin: 0;
+}
+
+.brand-title {
+    font-size: 0.9em;
+    letter-spacing: -2px;
+    color: #000;
+    display: inline-block;
+    padding: 1em;
+}
+
+.nav {
+    margin: 10em 1em 10em 0;
+}
+
+.nav-list {
+    margin: 3em 0;
+    padding: 0;
+    list-style: none;
+}
+.nav-item {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    display: inline-block;
+    background: transparent;
+    /* border: 1px ridge #aaa; */
+    text-shadow: -1px 1px 0 #fff;
+    /* background-color: #f3f3f3; */
+    /* padding: 0 1em; */
+    /* margin: 0.2em 0; */
+    color: #933;
+    letter-spacing: 0px;
+    /* min-width: 200px; */
+    /* height: 44px; */
+    /* line-height: 44px; */
+    vertical-align: middle;
+}
+a:hover,
+a:focus {
+    /* border: 1px solid #999; */
+    color: #000;
+    /* background-color: #eee; */
+    text-decoration: none;
+}
+
+.name {
+    display: inline-block;
+    width: 7em;
+}
+
+body {
+    font-family: self;
+    background-color: #666;
+}
+
+p {
+    line-height: 1.8em;
+}
+
+.post {
+    padding-bottom: 2em;
+}
+.post-title {
+    font-size: 2em;
+    color: #222;
+    margin-bottom: 0.2em;
+}
+.post-avatar {
+    border-radius: 50px;
+    float: right;
+    margin-left: 1em;
+}
+.post-description {
+    font-family: Georgia, "Cambria", serif;
+    color: #444;
+    line-height: 1.8em;
+}
+.post-meta {
+    color: #999;
+    font-size: 90%;
+    margin: 0;
+}
+
+.post-category {
+    margin: 0 0.1em;
+    padding: 0.3em 1em;
+    color: #fff;
+    background: #999;
+    font-size: 80%;
+}
+    .post-category-design {
+        background: #5aba59;
+    }
+    .post-category-pure {
+        background: #4d85d1;
+    }
+    .post-category-yui {
+        background: #8156a7;
+    }
+    .post-category-js {
+        background: #df2d4f;
+    }
+
+.post-images {
+    margin: 1em 0;
+}
+.post-image-meta {
+    margin-top: -3.5em;
+    margin-left: 1em;
+    color: #fff;
+    text-shadow: 0 1px 1px #333;
+}
+
+.footer {
+    position: relative;
+    right: 0;
+    height: 200px;
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+}
+.footer a {
+    color: #ccc;
+    font-size: 80%;
+}
+.footer .pure-menu a:hover,
+.footer .pure-menu a:focus {
+    background: none;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    padding: 0 0;
+    margin: 2em 0 0.5em 0;
+    letter-spacing: -1px;
+}
