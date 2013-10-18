@@ -172,3 +172,9 @@ h1 {
     margin: 2em 0 0.5em 0;
     letter-spacing: -1px;
 }
+
+.session {
+  padding: 1em;
+  margin: 1em 0;
+  
+}
