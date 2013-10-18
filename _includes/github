@@ -1,0 +1,5 @@
+{% if github %}
+<a href="http://github.com/{{ github }}" class="name">
+   <i class="icon-github"></i> {{ github }}
+</a>
+{% endif %}
