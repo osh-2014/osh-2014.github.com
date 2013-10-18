@@ -21,7 +21,7 @@ html {
     left: 240px;
     z-index: 2;
     /* margin: 0 0 0 240px; */
-    padding: 8em 2em 5em 2em;
+    padding: 1em 2em 5em 2em;
     width: 528px;
     background: #eee;
     box-shadow: 0 0 100px 0 rgba(100,100,100, 0.1);
