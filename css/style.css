@@ -21,7 +21,7 @@ html {
     left: 240px;
     z-index: 2;
     /* margin: 0 0 0 240px; */
-    padding: 8em 2em 5em 2em;
+    padding: 1em 2em 5em 2em;
     width: 528px;
     background: #eee;
     box-shadow: 0 0 100px 0 rgba(100,100,100, 0.1);
@@ -171,4 +171,10 @@ h1 {
     padding: 0 0;
     margin: 2em 0 0.5em 0;
     letter-spacing: -1px;
+}
+
+.session {
+  padding: 1em;
+  margin: 1em 0;
+  
 }
