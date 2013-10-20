@@ -48,16 +48,10 @@ members:
   {% for member in page.members %}
   <li>
     <span class="name">{{ member.name }}</span>
-    {% if member.twitter %}
-    <a href="http://twitter.com/{{ member.twitter }}" class="name">
-      <i class="icon-twitter">{{ member.twitter }}</i>
-    </a>
-    {% endif %}
-    {% if member.github %}
-    <a href="http://github.com/{{ member.github }}" class="name">
-      <i class="icon-github">{{ member.github }}</i>
-    </a>
-    {% endif %}
+    {% assign twitter = member.twitter %}
+    {% include twitter %}
+    {% assign github = member.github %}
+    {% include github %}
   </li>
   {% endfor %}
 </ul>
