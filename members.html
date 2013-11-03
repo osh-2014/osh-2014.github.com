@@ -47,7 +47,7 @@ members:
 <ul>
   {% for member in page.members %}
   <li>
-    <span class="name">{{ member.name }}</span>
+    <span class="name">{{ member.name }}</span><br>
     {% assign twitter = member.twitter %}
     {% include twitter %}
     {% assign github = member.github %}
