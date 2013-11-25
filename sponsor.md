@@ -34,25 +34,25 @@ title: セッション内容
     <th>プラチナ</th><th>ゴールド</th><th>シルバー</th><th>ホワイト</th>
   </tr>
   <tr>
-    <td>協賛金額</td><td>￥50,000</td><td>￥30,000</td><td>￥10,000</td><td>￥5,000</td><td></td>
+    <td class="title">協賛金額</td><td>￥50,000</td><td>￥30,000</td><td>￥10,000</td><td>￥5,000</td><td></td>
   </tr>
   <tr>
-    <td>報告書の提出<br></td><td>◯</td><td>◯</td><td>◯</td><td>◯</td><td>参加人数、会計報告など</td>
+    <td>報告書の提出<br></td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td>参加人数、会計報告など</td>
   </tr>
   <tr>
-    <td>ウェブサイトへの掲載</td><td>◎</td><td>◯</td><td>◯</td><td>◯</td><td>掲載位置、サイズなどが異なります。</td>
+    <td>ウェブサイトへの掲載</td><td class="cell">◎</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td>掲載位置、サイズなどが異なります。</td>
   </tr>
   <tr>
-    <td>セミナー当日のスポンサー紹介</td><td>◯</td><td>◯</td><td>◯</td><td>◯</td><td></td>
+    <td>セミナー当日のスポンサー紹介</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td></td>
   </tr>
   <tr>
-    <td>カウントダウンメールへの掲載</td><td>◯</td><td>◯</td><td>◯</td><td>-</td><td>イベントまでに数回送信します。</td>
+    <td>カウントダウンメールへの掲載</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">◯</td><td class="cell">-</td><td>イベントまでに数回送信します。</td>
   </tr>
   <tr>
-    <td>セミナー参加者への資料配布</td><td>◎</td><td>◯</td><td>-</td><td>-</td><td>◎: 制限なし<br>〇: 配布数に制限あり</td>
+    <td>セミナー参加者への資料配布</td><td class="cell">◎</td><td class="cell">◯</td><td class="cell">-</td><td class="cell">-</td><td>◎: 制限なし<br>〇: A4 2枚程度</td>
   </tr>
   <tr>
-    <td>スポンサード<br>セッション</td><td>◯</td><td>-</td><td>-</td><td>-</td><td></td>
+    <td>スポンサード<br>セッション</td><td class="cell">◯</td><td class="cell">-</td><td class="cell">-</td><td class="cell">-</td><td></td>
   </tr>
 </table>
 
@@ -92,7 +92,7 @@ title: セッション内容
 
 ### 徳島
 
-* [オープンセミナー2013@徳島 参加予定者およそ20名](http://kokucheese.com/event/index/126570/)
+* [オープンセミナー2013@徳島 参加者およそ30名](http://kokucheese.com/event/index/126570/)
 * [オープンセミナー2011@徳島 参加者およそ20名](http://kokucheese.com/event/index/19794/)
 * [オープンセミナー2010@徳島 参加者およそ20名](http://kokucheese.com/event/index/5133/)
 * [オープンセミナー2008@徳島](http://www.postgresql.jp/branch/shikoku/300c30aa30fc30f330bb30df30ca30fc2008-5fb35cf6300d958b50ac306e304a77e53089305b)

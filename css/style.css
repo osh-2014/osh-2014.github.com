@@ -191,3 +191,13 @@ h1 {
 .members {
     padding: 0.4em;
 }
+
+td.cell {
+    text-align: center;
+    width: 4em;
+}
+
+td.title {
+    width: 7em;
+    height: 3em;
+}
