@@ -87,7 +87,7 @@ title: セッション内容
 
 * [オープンセミナー2013@香川 参加者およそ20名](http://atnd.org/events/40654/)
 * [オープンセミナー2012@香川 参加者およそ30名](http://atnd.org/events/30099)
-* [オープンセミナー2011@香川 参加者およそ10名](http://atnd.org/events/19902)
+* [オープンセミナー2011@香川 ](http://www.stlug.org/pukiwiki/index.php?%A5%AA%A1%BC%A5%D7%A5%F3%A5%BB%A5%DF%A5%CA%A1%BC2011%40%B9%E1%C0%EE%20%B3%AB%BA%C5%A4%CE%A4%AA%C3%CE%A4%E9%A4%BB)
 * [オープンセミナー2010@香川 参加者およそ30名](http://atnd.org/events/7772)
 
 ### 徳島
