@@ -178,6 +178,26 @@ h1 {
   margin: 1em 0;
 }
 
+.role {
+    font-size: 0.8em;
+    color: #666;
+    width: 10em;
+}
+
 .session-title {
     font-size: 1.4em;
+}
+
+.members {
+    padding: 0.4em;
+}
+
+td.cell {
+    text-align: center;
+    width: 4em;
+}
+
+td.title {
+    width: 7em;
+    height: 3em;
 }

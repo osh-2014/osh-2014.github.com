@@ -5,10 +5,6 @@ members:
   -
     name: 佐々木 宣介
   -
-    name: 曽根 壮大
-    twitter: soudai1025
-    github: soudai
-  -
     name: 逸見 誠
     twitter: mako_wis
     github: makowis
@@ -35,19 +31,27 @@ members:
   -
     name: 坂田 泰平
   -
+    name: 曽根 壮大
+    role: 副実行委員長
+    twitter: soudai1025
+    github: soudai
+  -
     name: 火村 智彦
+    role: 実行委員長
     twitter: eielh
     github: eiel
 ---
 
 <h1>実行委員紹介</h1>
 
-<p>オープンセミナー2014@広島を運営を手伝ってくださってる方々を紹介します。</p>
+<p>オープンセミナー2014@広島を運営をしているメンバーを紹介します。</p>
 
 <ul>
   {% for member in page.members %}
-  <li>
-    <span class="name">{{ member.name }}</span><br>
+  <li class="members">
+    {% if member.role %}<span class="role">{{ member.role }}</span>{% endif %}
+    <span class="name">{{ member.name }}</span>
+    <br>
     {% assign twitter = member.twitter %}
     {% include twitter %}
     {% assign github = member.github %}
