@@ -14,14 +14,22 @@ title: 開催概要
 **2014年2月1日(土)**に開催が決定しました。
 開始時間など詳細情報が決まりましたら、随時ウェブサイトにて告知します。
 
-事前申し込みは Doorkeeper で行う予定です。[オープンセミナー広島のコミュニティ](http://osh-web.doorkeeper.jp/)を用意していますので、是非、コミュニティに参加をしてください。
+事前申し込みは下記からお願いします。
+
+<a href="http://osh-web.doorkeeper.jp/events/7534" class="doorkeeper-registration-widget" data-width="540">オープンセミナー2014@広島</a>
+
+懇親会は別となっています。お手数ですが下記からお願いします。
+
+<a href="http://osh-web.doorkeeper.jp/events/7544" class="doorkeeper-registration-widget" data-width="540">オープンセミナー2014@広島 懇親会</a>
+<script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+
 
 # テーマ「TDD…そして Be Agile」
 
-* TDD(テスト駆動開発)]
+* TDD(テスト駆動開発)
 * Be Agile(アジャイルな状態になる)
 
-[アジャイルマニフェスト宣言](http://agilemanifesto.org/iso/ja/) から10年が経ちし、ソフトウェア開発において**デスマーチを避ける**のは、もちろん**アジャイルな状態**を作りだすことが注目されています。
+[アジャイルマニフェスト宣言](http://agilemanifesto.org/iso/ja/) から10年が経ち、ソフトウェア開発において**デスマーチを避ける**のは、もちろん**アジャイルな状態**を作りだすことが注目されています。
 
 アジャイルな状態は
 
@@ -41,6 +49,31 @@ title: 開催概要
 このテスト駆動開発を中心におき、他にもアジャイルに関連した情報を参加者にお届けしたいと考えています。
 
 * [セッション詳細はこちら](/session.html)
+
+
+# 主催
+
+* [日本PostgreSQLユーザ会](http://www.postgresql.jp/)
+* [オープンセミナー2014@広島実行委員会](http://osh-2014.github.io/members.html)
+
+
+# 協賛
+
+## プラチナスポンサー
+
+[![株式会社オレンジシステム広島](http://osh-2014.github.io/images/orange_468.png)](http://www.orange.co.jp)
+
+
+## シルバースポンサー
+
+[![株式会社まほろば工房](http://osh-2014.github.io/images/mahoroba_234.png)](http://www.ate-mahoroba.jp/)
+
+
+# 協力
+
+* [Hiroshima.rb](http://hiroshimarb.github.io/)
+* [すごい広島](http://great-h.github.io/)
+* [中国地方DB勉強会](http://dbstudychugoku.github.io/)
 
 
 # リンク

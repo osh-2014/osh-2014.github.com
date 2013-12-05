@@ -10,7 +10,7 @@ html {
     position: fixed;
     top: 0;
     left: 0;
-    width: 240px;
+    width: 300px;
     height: 700px;
     z-index: 1;
     text-align: right;
@@ -18,7 +18,7 @@ html {
 
 .content {
     position: relative;
-    left: 240px;
+    left: 300px;
     z-index: 2;
     /* margin: 0 0 0 240px; */
     padding: 1em 2em 5em 2em;
