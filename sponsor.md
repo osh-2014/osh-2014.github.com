@@ -19,7 +19,7 @@ title: セッション内容
 
 協賛検討用に資料を用意しています。必要であればダウンロードしてお使いください。
 
-* [(PDF)オープンセミナー2014@広島 - 協賛お願い](https://github.com/osh-2014/osh-2014.github.com/raw/5e246510c84b67d835e7cdac4e34d9eb02e140d5/pdf/osh2014-sponsor.pdf)
+* [(PDF)オープンセミナー2014@広島 - 協賛お願い](/pdf/osh2014-sponsor.pdf)
 
 
 # 協賛の種類
