@@ -69,6 +69,11 @@ title: 開催概要
 [![株式会社まほろば工房](http://osh-2014.github.io/images/mahoroba_234.png)](http://www.ate-mahoroba.jp/)
 
 
+## 後援
+
+* [広島工業大学](http://www.it-hiroshima.ac.jp)
+
+
 # 協力
 
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
