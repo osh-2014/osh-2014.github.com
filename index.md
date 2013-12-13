@@ -81,6 +81,11 @@ title: 開催概要
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/)
 
 
+# スペシャルサンクス
+
+* [Shake Hands](http://www.shakehands.jp/) 広島市中区紙屋町のコワーキングスペース
+
+
 # リンク
 
 * [オープンセミナー2013@広島](http://osh-web.github.com/)
