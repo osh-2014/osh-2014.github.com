@@ -57,6 +57,14 @@ sessions:
     kana: "よしの しゅういち"
     profile: "<p>ワークライフバランス（事業成長、モチベーション、自己実現）創り出すためのエンジンの一つとしてスクラムを組織に展開中。コーチングのコンセプトは「余裕と興味」</p><p>所属: <a href=\"http://www.biglobe.co.jp/\" >NECビックローブ株式会社</a></p>"
     id: yoshino
+  -
+    title: "Amazon Relational Database Serviceで始めるPostgreSQL"
+    description: "<p>DBはどれを使っても同じと思っていませんか？今のプロジェクトはDBが問題原因となった時のことを検討していますか？KVSを使えば全てが解決すると思っていませんか？仕様変更・追加や性能面でボトルネックになりやすいDB。だからこそスプリントを乗り切るために柔軟で問題に強いDBを作りましょう。まずはその入り口をご紹介致します。</p>"
+    speaker: "曽根 壮大"
+    kana: "そね たけとも"
+    profile: "<p>福山で日々、Web 系エンジニアとしてインフラからプログラミングまで実装を幅広く担当。PostgreSQLはWebでも便利！を伝えるために活動中。またPHPのWebフレームワーク「FuelPHP」やPythonの活動も行っています。</p><p>日本PostgreSQLユーザ会中国支部長<br>中国地方DB勉強会主催<br><a href=\"http://www.magic3.org/doc/\">Magic３エバンジェリスト</a><br><a href=\"http://soudai1025.blogspot.jp/\">ブログ</a></p>"
+    id: "soudai1025"
+    twitter: "soudai1025"
 ---
 
 # セッション内容
