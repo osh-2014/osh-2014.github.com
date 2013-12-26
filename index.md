@@ -80,6 +80,7 @@ title: 開催概要
 * [すごい広島](http://great-h.github.io/)
 * [中国地方DB勉強会](http://dbstudychugoku.github.io/)
 * [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima?fref=ts)
+* [WEB TOUCH MEETING](http://webtouchmeeting.com/)
 
 
 # スペシャルサンクス
