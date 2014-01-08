@@ -84,6 +84,7 @@ title: 開催概要
 * [広島サーバユーザ友の会](http://server-h.github.io/)
 * [オープンラボ備後](https://sites.google.com/site/openlabbingo/)
 * [Windows Phone ハンズオン in 広島](https://www.facebook.com/groups/273162962715808/)
+* [セキュリティもみじ](http://d.hatena.ne.jp/sec-momiji/)
 
 
 # スペシャルサンクス
