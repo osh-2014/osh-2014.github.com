@@ -201,3 +201,29 @@ td.title {
     width: 7em;
     height: 3em;
 }
+
+.time-table td {
+    margin: 1px;
+    padding: 8px 0;
+}
+
+.time-table .time {
+    width: 50px;
+    font-size: 0.8em;
+}
+
+.time-table .time-span {
+    font-weight: bold;
+    font-size: 0.6em;
+    margin: 0;
+    padding: 0 0 0px 4px;
+}
+
+.time-table .speaker {
+    width: 100px;
+}
+
+.time-table tr {
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}
