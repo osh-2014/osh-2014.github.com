@@ -11,8 +11,14 @@ title: 開催概要
 # オープンセミナー2014@広島
 
 オープンセミナー2014@広島は2014年の広島で行うオープンセミナーです。
-**2014年2月1日(土)**に開催が決定しました。
-開始時間など詳細情報が決まりましたら、随時ウェブサイトにて告知します。
+**2014年2月1日(土)**に開催します。
+
+開始時刻 10:00 からを予定しています。<br>
+場所は[サテライトキャンパスひろしま 大講義室 502](http://www.pu-hiroshima.ac.jp/site/satellite/introduction.html)となっています。
+
+* [テーマ詳細はこちら](#theme)
+* [タイムテーブルはこちら](/timetable.html)
+* [セッション詳細はこちら](/session.html)
 
 事前申し込みは下記からお願いします。
 
@@ -23,8 +29,7 @@ title: 開催概要
 <a href="http://osh-web.doorkeeper.jp/events/7544" class="doorkeeper-registration-widget" data-width="540">オープンセミナー2014@広島 懇親会</a>
 <script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
 
-
-# テーマ「TDD…そして Be Agile」
+<h1 id="theme">テーマ「TDD…そして Be Agile」</h1>
 
 * TDD(テスト駆動開発)
 * Be Agile(アジャイルな状態になる)
@@ -47,9 +52,6 @@ title: 開催概要
 そこで、着目すべき開発手法がテスト駆動開発となります。
 
 このテスト駆動開発を中心におき、他にもアジャイルに関連した情報を参加者にお届けしたいと考えています。
-
-* [タイムテーブルはこちら](/timetable.html)
-* [セッション詳細はこちら](/session.html)
 
 
 # 主催
