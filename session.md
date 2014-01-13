@@ -82,7 +82,7 @@ sessions:
 
 {% for session in page.sessions %}
 <div class="session">
-<h2 class="session-title">{{ session.title }}</h2>
+<h2 id="{{ session.id }}_session"class="session-title">{{ session.title }}</h2>
 
 <p>{{ session.description }}</p>
 
