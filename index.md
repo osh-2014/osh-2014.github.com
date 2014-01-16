@@ -70,6 +70,7 @@ title: 開催概要
 ## シルバースポンサー
 
 [![株式会社まほろば工房](http://osh-2014.github.io/images/mahoroba_234.png)](http://www.ate-mahoroba.jp/)
+[![株式会社ネクストビジョン](http://osh-2014.github.io/images/nextvision_234.png)](http://www.nextvision.co.jp/)
 
 
 ## 後援
