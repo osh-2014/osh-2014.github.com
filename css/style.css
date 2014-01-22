@@ -227,3 +227,7 @@ td.title {
     border-top: solid 1px black;
     border-bottom: solid 1px black;
 }
+
+.side-sponsor li {
+    margin: 10px 0;
+}
