@@ -53,7 +53,21 @@ title: "タイムテーブル"
     <td class="time">
       12:35
       <p class="time-span">10分</p>
-      12:45
+      14:45
+    </td>
+    <td>
+      <a href="/session.html#tanaka">田中 靖也</a>
+    </td>
+    <td>
+      <a href="/session.html#tanaka_session">すくすくスクラム広島やってますよ～。(仮)</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="time">
+      12:50
+      <p class="time-span">10分</p>
+      13:00
     </td>
     <td>
       <a href="/session.html#kawaguchi">川口 稔</a>
@@ -65,29 +79,15 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     12:50
+     14:30
      <p class="time-span">10分</p>
-     13:00
+     14:40
     </td>
     <td>
       <a href="/session.html#ishizaki">石崎 浩太郎</a>
     </td>
     <td>
       <a href="/session.html#ishizaki_session">スクラム変遷記　０からのスタート</a>
-    </td>
-  </tr>
-
-  <tr>
-   <td class="time">
-     14:30
-     <p class="time-span">10分</p>
-     14:40
-    </td>
-    <td>
-      <a href="/session.html#tanaka">田中 靖也</a>
-    </td>
-    <td>
-      <a href="/session.html#tanaka_session">すくすくスクラム広島やってますよ～。(仮)</a>
     </td>
   </tr>
 
