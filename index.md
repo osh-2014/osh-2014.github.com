@@ -10,17 +10,37 @@ title: 開催概要
 
 # オープンセミナー2014@広島
 
-オープンセミナー2014@広島は2014年の広島で行うオープンセミナーです。
-**2014年2月1日(土)**に開催します。
+オープンセミナー2014@広島は2014年度の広島のオープンセミナーです。
 
-開始時刻 10:00 からを予定しています。<br>
-場所は[サテライトキャンパスひろしま 大講義室 502](http://www.pu-hiroshima.ac.jp/site/satellite/introduction.html)となっています。
+* 日程 2014年2月1日 10:00-17:30 (受付開始 9:30予定)
+* 会場 [サテライトキャンパスひろしま 大講義室 502](http://www.pu-hiroshima.ac.jp/site/satellite/introduction.html) ([広島県民文化センター 5F](http://www.rcchall.jp/bunkac/html/access/index.html))
+* 参加費 無料
+
+会場へは
+
+* 広島バスセンターより 徒歩3分
+* 広島駅より路面電車で10分 (紙屋町西、または 本通り下車徒歩2分)
+* アストラムライン 本通り益より 徒歩2分
+
+でアクセスできます。
+
+[\[会場をGoogle Streat View で確認する\]](https://maps.google.com/maps?q=%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%A4%A7%E6%89%8B%E7%94%BA+1+%E4%B8%81%E7%9B%AE+5-3&ie=UTF8&ll=34.394357,132.456&spn=0.021956,0.019934&hnear=%E6%97%A5%E6%9C%AC,+%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%A4%A7%E6%89%8B%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%95%E2%88%92%EF%BC%93&t=m&z=16&layer=c&cbll=34.394451,132.456042&panoid=izf3XJ8gK8qM9lUWTX7h_w&cbp=12,287.22,,0,-14.94)
 
 * [テーマ詳細はこちら](#theme)
 * [タイムテーブルはこちら](/timetable.html)
 * [セッション詳細はこちら](/session.html)
 
-事前申し込みは下記からお願いします。
+### 注意事項
+
+飲食は基本的にできません。フタつきのペットボトルは持ち込み可能です。
+昼食は周辺の飲食店をご利用ください。
+
+県外の方は下記のブログ記事に会場周辺の飲食店の紹介があります。
+参考にしてみてください。
+
+* [そーだいなるらくがき帳: みんなが来るべきたった一つのイベント　～オープンセミナー2014＠広島の紹介～](http://soudai1025.blogspot.jp/2013/12/osh2014.html)
+
+### 事前申し込み
 
 <a href="http://osh-web.doorkeeper.jp/events/7534" class="doorkeeper-registration-widget" data-width="540">オープンセミナー2014@広島</a>
 
