@@ -53,7 +53,7 @@ title: "タイムテーブル"
     <td class="time">
       12:35
       <p class="time-span">10分</p>
-      14:45
+      12:45
     </td>
     <td>
       <a href="/session.html#tanaka">田中 靖也</a>
