@@ -51,9 +51,9 @@ title: "タイムテーブル"
 
   <tr>
     <td class="time">
-      12:35
+      12:15
       <p class="time-span">10分</p>
-      12:45
+      12:25
     </td>
     <td>
       <a href="/session.html#tanaka">田中 靖也</a>
@@ -65,9 +65,9 @@ title: "タイムテーブル"
 
   <tr>
     <td class="time">
-      12:50
+      12:30
       <p class="time-span">10分</p>
-      13:00
+      12:40
     </td>
     <td>
       <a href="/session.html#kawaguchi">川口 稔</a>
@@ -79,9 +79,9 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     14:30
+     14:10
      <p class="time-span">10分</p>
-     14:40
+     14:20
     </td>
     <td>
       <a href="/session.html#ishizaki">石崎 浩太郎</a>
@@ -93,9 +93,9 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     14:45
+     14:25
      <p class="time-span">20分</p>
-     15:05
+     14:45
     </td>
     <td>
       <a href="/session.html#yoshino">吉野 宗壱</a>
@@ -107,9 +107,9 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     15:10
+     14:50
      <p class="time-span">30分</p>
-     15:40
+     15:20
     </td>
     <td>
       <a href="/session.html#soudai1025o">曽根 壮大</a>
@@ -121,9 +121,9 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     15:50
+     15:30
      <p class="time-span">90分</p>
-     17:20
+     17:00
     </td>
     <td>
       <a href="/session.html#tomohn">長沢 智治</a>
@@ -135,9 +135,9 @@ title: "タイムテーブル"
 
   <tr>
    <td class="time">
-     17:20
+     17:10
      <p class="time-span">10分</p>
-     17:30
+     17:20
     </td>
     <td>
       エンディング
