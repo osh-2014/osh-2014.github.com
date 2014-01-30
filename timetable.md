@@ -59,7 +59,7 @@ title: "タイムテーブル"
       <a href="/session.html#tanaka">田中 靖也</a>
     </td>
     <td>
-      <a href="/session.html#tanaka_session">すくすくスクラム広島やってますよ～。(仮)</a>
+      <a href="/session.html#tanaka_session">すくすくスクラム広島やってますよ～。</a>
     </td>
   </tr>
 
