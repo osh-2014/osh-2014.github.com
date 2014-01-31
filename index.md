@@ -115,6 +115,7 @@ title: 開催概要
 # スペシャルサンクス
 
 * [Shake Hands](http://www.shakehands.jp/) 広島市中区紙屋町のコワーキングスペース
+* [株式会社ブリコラージュ](http://www.bric.jp/)
 
 
 # リンク
