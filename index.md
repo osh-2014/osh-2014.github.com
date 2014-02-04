@@ -19,6 +19,7 @@ title: 開催概要
 
 ## 講演資料
 
+* [和田さん - TDDのこころ](http://www.slideshare.net/t_wada/osh2014-sprit-of-tdd)
 * [川口さん - 形から入るスクラム](http://www.slideshare.net/ducky19999/osh2014-kawaguhi)
 * [曽根さん - Amazon Relational Database Serviceで始めるPostgreSQL](http://soudai1025.blogspot.jp/2014/02/2014.html)
 * [長沢さん - これからのつながる開発環境とその秘訣(仮)](http://re-workstyle.com/articles/open-seminar-hiroshima-2014/)
