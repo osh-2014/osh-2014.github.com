@@ -19,6 +19,7 @@ title: 開催概要
 
 ## 講演資料
 
+* [和田さん - TDDのこころ](http://www.slideshare.net/t_wada/osh2014-sprit-of-tdd)
 * [川口さん - 形から入るスクラム](http://www.slideshare.net/ducky19999/osh2014-kawaguhi)
 * [曽根さん - Amazon Relational Database Serviceで始めるPostgreSQL](http://soudai1025.blogspot.jp/2014/02/2014.html)
 * [長沢さん - これからのつながる開発環境とその秘訣(仮)](http://re-workstyle.com/articles/open-seminar-hiroshima-2014/)
@@ -38,6 +39,7 @@ title: 開催概要
 * [Fragments of development. - オープンセミナー2014＠広島に行ってきた](http://ykumano.tumblr.com/post/75470245706/2014)
 * [OSH 広島 2014 に行きました - ねむむ日記](http://nemumu.hateblo.jp/entry/2014/02/02/035033)
 * [オープンセミナー2014@広島に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/75265845130/2014)
+* [オープンセミナー2014＠広島に参加してきました。 - JunkBox～主に個人的防備録～](http://akira-junkbox.blogspot.jp/2014/02/2014.htm)
 
 
 # オープンセミナーとは
