@@ -16,6 +16,7 @@ title: 開催概要
 # 講演資料や当日の様子など
 
 * [オープンセミナー2014@広島 #osh2014 - Togetterまとめ](http://togetter.com/li/623299)
+* [当日の様子 - オープンセミナー2014@広島 - flickr](http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftoro_kun%2Fsets%2F72157640500279335%2F&h=GAQE21qPn)
 
 ## 講演資料
 
