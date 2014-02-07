@@ -17,6 +17,7 @@ title: 開催概要
 
 * [オープンセミナー2014@広島 #osh2014 - Togetterまとめ](http://togetter.com/li/623299)
 * [当日の様子 - オープンセミナー2014@広島 - flickr](http://www.flickr.com/photos/toro_kun/sets/72157640500279335/)
+* [オープンセミナー2014@広島 #osh2014の座席表 - セキココ](http://sekico.co/zaseki/243)
 
 ## 講演資料
 
@@ -24,6 +25,7 @@ title: 開催概要
 * [川口さん - 形から入るスクラム](http://www.slideshare.net/ducky19999/osh2014-kawaguhi)
 * [曽根さん - Amazon Relational Database Serviceで始めるPostgreSQL](http://soudai1025.blogspot.jp/2014/02/2014.html)
 * [長沢さん - これからのつながる開発環境とその秘訣(仮)](http://re-workstyle.com/articles/open-seminar-hiroshima-2014/)
+
 
 ## 懇親会LT
 
@@ -34,6 +36,8 @@ title: 開催概要
 * [24motz - #OSH2014 感想と懇親会LT #nvdajp | nishimotzの日記](http://d.nishimotz.com/archives/1664)
 * [minamiyama1994 - オープンセミナー2014@広島 LT](http://www.slideshare.net/masakazuminamiyama/2014-lt)
 * [takatayoshitake - 2014/02/01 オープンセミナー2014@広島](http://tkt-study.tumblr.com/post/75326130862/20140201-osh2014)
+* [eiel - 本当に障がい者でもオープンセミナー広島の実行委員長ができるのか？ - 答え: できた。 - そんなこと覚えてない](http://blog.eiel.info/blog/2014/02/07/osh-2014/)
+
 
 ## 参加者のブログ記事
 
@@ -41,6 +45,9 @@ title: 開催概要
 * [OSH 広島 2014 に行きました - ねむむ日記](http://nemumu.hateblo.jp/entry/2014/02/02/035033)
 * [オープンセミナー2014@広島に遊びにいった - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/75265845130/2014)
 * [オープンセミナー2014＠広島に参加してきました。 - JunkBox～主に個人的防備録～](http://akira-junkbox.blogspot.jp/2014/02/2014.htm)
+* [オープンセミナー2014@広島 参加まとめ - Togetterまとめ](http://togetter.com/li/623993)
+* [T.Yokoyamaのブログ: オープンセミナー2014＠広島に参加しました。](http://takashi-yokoyama.blogspot.jp/2014/02/2014.html)
+* [名刺の打ち合わせとオープンセミナーへ参加しました。 | 名刺デザイナー](http://meishistylist.com/designer/20140201/)
 
 
 # オープンセミナーとは
