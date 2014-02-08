@@ -37,6 +37,7 @@ title: 開催概要
 * [minamiyama1994 - オープンセミナー2014@広島 LT](http://www.slideshare.net/masakazuminamiyama/2014-lt)
 * [takatayoshitake - 2014/02/01 オープンセミナー2014@広島](http://tkt-study.tumblr.com/post/75326130862/20140201-osh2014)
 * [eiel - 本当に障がい者でもオープンセミナー広島の実行委員長ができるのか？ - 答え: できた。 - そんなこと覚えてない](http://blog.eiel.info/blog/2014/02/07/osh-2014/)
+* [オープンセミナー2014@広島に参加してみて - Toroとトロは電子機械の夢を見るか](http://106n.net/toro/blog/?p=1340)
 
 
 ## 参加者のブログ記事
