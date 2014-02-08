@@ -48,6 +48,8 @@ title: 開催概要
 * [オープンセミナー2014@広島 参加まとめ - Togetterまとめ](http://togetter.com/li/623993)
 * [T.Yokoyamaのブログ: オープンセミナー2014＠広島に参加しました。](http://takashi-yokoyama.blogspot.jp/2014/02/2014.html)
 * [名刺の打ち合わせとオープンセミナーへ参加しました。 | 名刺デザイナー](http://meishistylist.com/designer/20140201/)
+* [49.212.143.129 - オープンセミナー2014@広島に参加しました](http://tfrkd.org/posts/2014-02-02-osh-2014.html)
+* [「オープンセミナー２０１４＠広島」に行ってきました！！ + 穴吹情報デザイン専門学校 + 学校法人穴吹学園 + 穴吹カレッジグループ福山](http://www.anabuki-net.ne.jp/fukuyama/acf/news.cgi?Snumber=1310)
 
 
 # オープンセミナーとは
