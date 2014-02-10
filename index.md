@@ -15,6 +15,7 @@ title: 開催概要
 
 # 講演資料や当日の様子など
 
+* [USTREAM: オープンセミナー2014@広島](http://www.ustream.tv/channel/osh2014)
 * [オープンセミナー2014@広島 #osh2014 - Togetterまとめ](http://togetter.com/li/623299)
 * [当日の様子 - オープンセミナー2014@広島 - flickr](http://www.flickr.com/photos/toro_kun/sets/72157640500279335/)
 * [オープンセミナー2014@広島 #osh2014の座席表 - セキココ](http://sekico.co/zaseki/243)
